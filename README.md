@@ -1,4 +1,4 @@
-# ColorLink - Privacy Policy & User Agreement
+# BallConnect - Privacy Policy & User Agreement
 
 ---
 
@@ -28,11 +28,11 @@
 
 **最后更新日期：2024年1月**
 
-欢迎使用 ColorLink！在使用本应用前，请仔细阅读以下条款。
+欢迎使用连线球球！在使用本应用前，请仔细阅读以下条款。
 
 #### 1. 服务说明
 
-ColorLink 是一款休闲益智游戏，提供连线解谜的游戏体验。
+连线球球是一款休闲益智游戏，提供连线解谜的游戏体验。
 
 #### 2. 用户账户
 
@@ -108,11 +108,11 @@ ColorLink 是一款休闲益智游戏，提供连线解谜的游戏体验。
 
 **Last Updated: January 2024**
 
-Welcome to ColorLink! Please read the following terms carefully before using the App.
+Welcome to BallConnect! Please read the following terms carefully before using the App.
 
 #### 1. Service Description
 
-ColorLink is a casual puzzle game that provides a line-connecting puzzle experience.
+BallConnect is a casual puzzle game that provides a line-connecting puzzle experience.
 
 #### 2. User Account
 
@@ -170,4 +170,4 @@ If you have any questions about this Privacy Policy or User Agreement, please co
 
 ---
 
-**ColorLink Team / ColorLink 团队**
+**BallConnect Team / 连线球球团队**
