@@ -6,49 +6,21 @@
 
 ### 隐私政策
 
-**最后更新日期：2024年1月**
+**生效日期：2026-03-03**
 
-欢迎使用 ColorLink（以下简称"本应用"）。我们非常重视您的隐私保护。请在使用本应用前仔细阅读本隐私政策。
+1. 本应用为单机小游戏，不收集、存储或共享任何个人信息。
 
-#### 1. 信息收集
+2. 本应用不请求、不使用任何设备权限（如存储、摄像头、定位、通讯录等）。
 
-本应用可能会收集以下信息：
-- **游戏进度数据**：包括关卡进度、星星数量、钻石数量、卡片收集情况等游戏相关数据
-- **设备信息**：设备型号、操作系统版本（用于优化应用性能）
-- **使用数据**：应用使用频率、功能使用情况（用于改进用户体验）
+3. 本应用集成了 Google Mobile Ads 广告服务。广告由 Google 提供，Google 可能会根据其隐私政策收集设备信息用于广告投放。详情请参阅 [Google 隐私政策](https://policies.google.com/privacy)。
 
-#### 2. 信息使用
+4. 本应用不使用 Cookies，也不进行跨站或跨应用跟踪。
 
-我们收集的信息将用于：
-- 提供和维持游戏服务
-- 改进和优化应用功能
-- 提供客户支持
-- 发送重要通知（如应用更新）
+5. 未成年人政策：应用不收集任何信息，无需提供监护人同意。广告服务由 Google 提供，请参阅 Google 的未成年人隐私政策。
 
-#### 3. 信息存储
+6. **变更**：如未来功能变更涉及隐私数据或权限，将在更新前于此政策中明确说明并征求同意。
 
-- 所有游戏数据均存储在您的本地设备上
-- 我们不会将您的个人信息上传到远程服务器
-- 您可以随时通过清除应用数据来删除所有本地存储的信息
-
-#### 4. 第三方服务
-
-本应用集成了以下第三方服务：
-- **广告服务**：用于展示广告内容，广告服务商可能会根据其隐私政策收集设备信息
-- 广告服务商有自己的隐私政策，建议您查阅相关条款
-
-#### 5. 儿童隐私
-
-本应用适合所有年龄段用户使用。我们不会故意收集13岁以下儿童的个人信息。如果您是家长或监护人，发现您的孩子向我们提供了个人信息，请联系我们。
-
-#### 6. 隐私政策变更
-
-我们可能会不时更新本隐私政策。更新后的政策将在应用内公布，建议您定期查阅。
-
-#### 7. 联系我们
-
-如果您对本隐私政策有任何疑问，请通过以下方式联系我们：
-- 应用内反馈功能
+7. **联系方式**：如对本隐私政策有任何疑问，请通过应用商店开发者联系方式与我们取得联系。
 
 ---
 
@@ -76,9 +48,10 @@ ColorLink 是一款休闲益智游戏，提供连线解谜的游戏体验。
 
 #### 4. 广告服务
 
-- 本应用包含广告内容
+- 本应用集成了 Google Mobile Ads 广告服务
 - 观看广告可获得游戏内奖励
-- 广告内容由第三方广告服务商提供，我们不对广告内容负责
+- 广告内容由 Google 提供，我们不对广告内容负责
+- Google 可能会根据其隐私政策收集设备信息
 
 #### 5. 用户行为规范
 
@@ -113,49 +86,21 @@ ColorLink 是一款休闲益智游戏，提供连线解谜的游戏体验。
 
 ### Privacy Policy
 
-**Last Updated: January 2024**
+**Effective Date: 2026-03-03**
 
-Welcome to ColorLink (hereinafter referred to as "the App"). We take your privacy seriously. Please read this privacy policy carefully before using the App.
+1. This application is an offline game that does not collect, store, or share any personal information.
 
-#### 1. Information Collection
+2. This application does not request or use any device permissions (such as storage, camera, location, contacts, etc.).
 
-The App may collect the following information:
-- **Game Progress Data**: Including level progress, stars count, diamonds count, card collection, and other game-related data
-- **Device Information**: Device model, operating system version (used to optimize app performance)
-- **Usage Data**: App usage frequency, feature usage (used to improve user experience)
+3. This application integrates Google Mobile Ads advertising service. Ads are provided by Google, which may collect device information for ad delivery according to its privacy policy. Please refer to [Google Privacy Policy](https://policies.google.com/privacy) for details.
 
-#### 2. Information Use
+4. This application does not use Cookies or engage in cross-site or cross-application tracking.
 
-The information we collect is used to:
-- Provide and maintain game services
-- Improve and optimize app functionality
-- Provide customer support
-- Send important notifications (such as app updates)
+5. Children's Policy: The application does not collect any information, so no parental consent is required. Advertising services are provided by Google, please refer to Google's children's privacy policy.
 
-#### 3. Information Storage
+6. **Changes**: If future feature changes involve privacy data or permissions, they will be clearly stated in this policy before the update and consent will be sought.
 
-- All game data is stored locally on your device
-- We do not upload your personal information to remote servers
-- You can delete all locally stored information at any time by clearing app data
-
-#### 4. Third-Party Services
-
-The App integrates the following third-party services:
-- **Advertising Services**: Used to display ad content, advertising service providers may collect device information according to their privacy policies
-- Advertising service providers have their own privacy policies, we recommend you review relevant terms
-
-#### 5. Children's Privacy
-
-The App is suitable for users of all ages. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and discover that your child has provided us with personal information, please contact us.
-
-#### 6. Privacy Policy Changes
-
-We may update this privacy policy from time to time. Updated policies will be published within the App, we recommend you review it regularly.
-
-#### 7. Contact Us
-
-If you have any questions about this privacy policy, please contact us through:
-- In-app feedback function
+7. **Contact**: If you have any questions about this privacy policy, please contact us through the developer contact information on the app store.
 
 ---
 
@@ -183,9 +128,10 @@ ColorLink is a casual puzzle game that provides a line-connecting puzzle experie
 
 #### 4. Advertising Services
 
-- The App contains advertising content
+- The App integrates Google Mobile Ads advertising service
 - Watching ads can earn in-game rewards
-- Ad content is provided by third-party advertising service providers, we are not responsible for ad content
+- Ad content is provided by Google, we are not responsible for ad content
+- Google may collect device information according to its privacy policy
 
 #### 5. User Conduct
 
@@ -218,9 +164,9 @@ The interpretation and enforcement of this Agreement shall be governed by the la
 
 ## Contact / 联系方式
 
-If you have any questions about this Privacy Policy or User Agreement, please contact us through the in-app feedback function.
+If you have any questions about this Privacy Policy or User Agreement, please contact us through the app store developer contact information.
 
-如果您对本隐私政策或用户协议有任何疑问，请通过应用内反馈功能联系我们。
+如果您对本隐私政策或用户协议有任何疑问，请通过应用商店开发者联系方式联系我们。
 
 ---
 
