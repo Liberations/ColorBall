@@ -17,9 +17,6 @@
 ### 数据安全
 我们不存储任何用户数据。所有游戏进度仅保存在您的本地设备上。
 
-### 儿童隐私
-本应用适合所有年龄段用户，不会故意收集儿童的个人信息。
-
 ### 联系我们
 如有任何问题，请联系：hapidev2026@gamil.com
 
@@ -40,9 +37,6 @@ This app uses the following third-party service:
 
 ### Data Security
 We do not store any user data. All game progress is saved only on your local device.
-
-### Children's Privacy
-This app is suitable for users of all ages and does not knowingly collect personal information from children.
 
 ### Contact Us
 If you have any questions, please contact: hapidev2026@gamil.com
